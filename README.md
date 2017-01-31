@@ -1,2 +1,2 @@
-# berkeleyinventioncorps.github.io
+# anish-saha.github.io/berkeleyinventioncorps
 Berkeley Invention Corps website (WIP!)
